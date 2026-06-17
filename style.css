@@ -62,6 +62,7 @@ ul {
   width: 30%;
   border-style: solid;
   border-radius: 10px;
+  border-width: 5px;
 }
 
 .spaces a{
