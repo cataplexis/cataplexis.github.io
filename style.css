@@ -61,6 +61,7 @@ ul {
   padding-bottom: 1.25%;
   width: 30%;
   border-style: solid;
+  border-radius: 5px;
 }
 
 .spaces a{
