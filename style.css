@@ -105,6 +105,14 @@ ul {
   margin-right: 30px;
 }
 
+.noimageproject li {
+ width: 550px;
+  height: 250px;
+  overflow: hidden;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 .desc {
   border-style: solid;
   padding-bottom: 15px;
