@@ -91,6 +91,10 @@ ul {
 
 }
 
+.back{
+ align-items: left;
+}
+
 .projects {
   display: flex;
   justify-content: center;
